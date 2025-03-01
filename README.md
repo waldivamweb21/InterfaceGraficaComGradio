@@ -1,6 +1,13 @@
-#CRIANDO INTERFACE COM GRADIO
+#Criando Interface Com Gradio
+
 Criando interface com Gradio fundamentos.
 
-#INTRODUÇÃO 
-Estudando Gradio no curso python do zero ao avançado | projetos
+#Introdução
+
+Curso Python Desenvolvedor Do Zero
+ao Avançado | Projetos Reais.
+
+# Objetivo 
+Tornar Desenvolvedor Jr Python Web.
+e Analista de dados.
 
